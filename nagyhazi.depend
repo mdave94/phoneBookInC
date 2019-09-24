@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1494005304 source:d:\prog\nagyhazi\lista.cpp
+	"lista.hpp"
+
+1494005085 d:\prog\nagyhazi\lista.h
+	<iostream>
+
+1494015209 source:d:\prog\nagyhazi\main.cpp
+	<iostream>
+	"lista.hpp"
+	"bejegyzes.h"
+	"fajlkezeles.h"
+
+1494006382 d:\prog\nagyhazi\telefonkonyv.h
+	<iostream>
+
+1494007172 d:\prog\nagyhazi\lista.hpp
+	<iostream>
+
+1494014849 d:\prog\nagyhazi\bejegyzes.h
+	<iostream>
+
+1494014824 source:d:\prog\nagyhazi\fajlkezeles.cpp
+	"fajlkezeles.h"
+	<fstream>
+	<iostream>
+
+1494014116 d:\prog\nagyhazi\fajlkezeles.h
+	<string>
+	"lista.hpp"
+	"Bejegyzes.h"
+
+1494169228 source:d:\prog\nagyhazi\nagyhazi\fajlkezeles.cpp
+	"fajlkezeles.h"
+	<fstream>
+	<iostream>
+
+1494169224 d:\prog\nagyhazi\nagyhazi\fajlkezeles.h
+	<string>
+	"lista.hpp"
+	"Bejegyzes.h"
+
+1494169217 d:\prog\nagyhazi\nagyhazi\lista.hpp
+	<iostream>
+	<stdexcept>
+
+1494169221 d:\prog\nagyhazi\nagyhazi\bejegyzes.h
+	<iostream>
+
+1494178371 source:d:\prog\nagyhazi\nagyhazi\main.cpp
+	<iostream>
+	"lista.hpp"
+	"bejegyzes.h"
+	"fajlkezeles.h"
+	<sstream>
+
